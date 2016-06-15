@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{64C21149-C0DC-30A1-D9F0-466CFBAF7D46}") = "Ads Save Lives", "Assembly-CSharp.csproj", "{195AD337-BADB-D103-E8B6-0F9A862F12FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195AD337-BADB-D103-E8B6-0F9A862F12FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195AD337-BADB-D103-E8B6-0F9A862F12FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195AD337-BADB-D103-E8B6-0F9A862F12FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195AD337-BADB-D103-E8B6-0F9A862F12FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
