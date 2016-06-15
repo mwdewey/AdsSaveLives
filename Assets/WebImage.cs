@@ -14,11 +14,13 @@ public class WebImage : MonoBehaviour {
 	
 	}
 
+    // downloads and sets the image in a new thread 
     public void SetImage(string url)
     {
         StartCoroutine(SetImageCo(url));
     }
 
+    // sets texture of raw image to the downlaoded image
     IEnumerator SetImageCo(string url)
     {
         WWW www = new WWW(url);
